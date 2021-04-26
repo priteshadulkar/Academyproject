@@ -25,8 +25,9 @@ public class Java {
 		    {
 		    	//System.out.println("the prime number is");
 		    	System.out.print(i +" ");
-		    	System.out.println("");
-		    	
+
+
+		    	System.out.println("");System.out.println("");
 		    }
 			
 		    
