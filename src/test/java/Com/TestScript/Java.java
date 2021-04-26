@@ -25,20 +25,13 @@ public class Java {
 		    {
 		    	//System.out.println("the prime number is");
 		    	System.out.print(i +" ");
-		    	
+		    	System.out.println("");
 		    	
 		    }
 			
 		    
 		    
-		    
-		    
-		    
-		    
-		    
-		    
-			
-		}
+		  }
 
 	}
 	@Test
@@ -60,5 +53,6 @@ public class Java {
 		  Arrays.sort(inputList);
 		  
 		  System.out.println(Arrays.toString(inputList));
+		  System.out.println("");
 	}
 }
