@@ -1,0 +1,59 @@
+[33mcommit 9fe039bcfdb97205ce60ea3b758f004335f15b32[m[33m ([m[1;36mHEAD -> [m[1;32mdeve2[m[33m, [m[1;31morigin/deve2[m[33m)[m
+Author: Pritesh Adulkar <adulkarritesh@gmail.com>
+Date:   Mon Apr 26 16:34:29 2021 +0530
+
+     on deve2 new file github2 added
+
+[33mcommit caa37bf33824dd37ec8abe7ff49276ebb919b8ad[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: e13052f 8d2902e
+Author: priteshadulkar <45476184+priteshadulkar@users.noreply.github.com>
+Date:   Mon Apr 26 15:31:41 2021 +0530
+
+    Merge pull request #1 from priteshadulkar/deve
+    
+    master
+
+[33mcommit 8d2902ee245c055bc23d2d3e49b3525d7d39e986[m[33m ([m[1;31morigin/deve[m[33m, [m[1;32mdeve[m[33m)[m
+Author: Pritesh Adulkar <adulkarritesh@gmail.com>
+Date:   Mon Apr 26 15:09:49 2021 +0530
+
+    code upated in deeve branches
+
+[33mcommit cccf09badc3d17c50160147ef5cfbd0bb2a8c3db[m
+Author: Pritesh Adulkar <adulkarritesh@gmail.com>
+Date:   Thu Apr 8 13:41:08 2021 +0530
+
+    Revert "afrt all of the file"
+    
+    This reverts commit 24618aff99c306076a41c8509139ebb5b8faceba.
+
+[33mcommit 2af0a618bdd3645eb9ce82c70bc62c85a42a1ca9[m
+Merge: 24618af 5f480c7
+Author: Pritesh Adulkar <adulkarritesh@gmail.com>
+Date:   Thu Apr 8 13:18:18 2021 +0530
+
+    Merge branch 'deve' of https://github.com/priteshadulkar/Academyproject into deve
+
+[33mcommit 24618aff99c306076a41c8509139ebb5b8faceba[m
+Author: Pritesh Adulkar <adulkarritesh@gmail.com>
+Date:   Thu Apr 8 13:16:58 2021 +0530
+
+    afrt all of the file
+
+[33mcommit 5f480c7d094b0b6e6f2e8a423d66899ccc9e27af[m
+Author: Pritesh Adulkar <adulkarritesh@gmail.com>
+Date:   Thu Apr 8 13:02:04 2021 +0530
+
+    after modify delete file
+
+[33mcommit 109a20f0966992a48827caa1e9b702c717f736d5[m
+Author: Pritesh Adulkar <adulkarritesh@gmail.com>
+Date:   Thu Apr 8 12:30:09 2021 +0530
+
+    some file added
+
+[33mcommit e13052fb00907a5387635657b3b7cb0896e3fb8d[m[33m ([m[1;32meta1[m[33m)[m
+Author: Pritesh Adulkar <adulkarritesh@gmail.com>
+Date:   Thu Apr 8 12:16:10 2021 +0530
+
+    1st commit
